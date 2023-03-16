@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: #7c00d5;
+    border-radius: 50%;
+    animation: 1s linear 1s infinite alternate slidein;
+}
+
+@keyframes slidein {
+    from{margin-top: 0%;}
+    to{margin-top: 40%;}
+}

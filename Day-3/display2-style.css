@@ -1,0 +1,31 @@
+body{
+    max-width: auto;
+}
+
+.parent{
+    border: red 2px solid;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+}
+
+#box1{
+    background-color: blue;
+    position: relative;
+}
+
+#box2{
+    background-color: yellow;
+    position: relative;
+    top: -100px;
+    left: 100px;
+}
+
+#box3{
+    background-color: red;
+    position: relative;
+    top: -200px;
+    left: 200px;
+}

@@ -1,0 +1,24 @@
+display property:
+-----------------
+1. block
+2. Inline
+3. Inline-block
+4. none
+
+block               Inline      Inline-block
+-----               ------      ------------
+* full width          x              x
+* new line            x              x
+* width & height      x             yes
+
+position property:
+------------------
+1. static
+2. relative
+3. absolute
+4. fixed
+
+static          relative        absolute
+------          --------        --------
+                                * parent must be a positioned
+                                

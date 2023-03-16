@@ -1,0 +1,21 @@
+
+#div1{
+    height: 200px;
+    width: 200px;
+    border: black 2px solid;
+    position: relative;
+}
+#div2{
+     height: 200px;
+    width: 200px;
+    border: black 2px solid;
+    position: relative;
+    left: 201.5px;;
+}
+#div3{
+   height: 200px;
+    width: 200px;
+    border: black 2px solid;
+    position: relative;
+    left: 403.5px;
+}
