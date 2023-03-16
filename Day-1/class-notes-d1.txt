@@ -1,0 +1,24 @@
+DATE: 03-03-23
+
+html
+head
+body
+p
+pre
+h1
+h2
+h3
+h4
+h5
+h6
+br
+hr
+sub
+sup
+<!-- comment -->
+img, src, alt, width, height, align
+iframe
+center
+title
+link, rel, type, href
+style, background-color
