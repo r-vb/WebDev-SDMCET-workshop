@@ -1,0 +1,31 @@
+.style-class{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    color: blue;
+}
+
+#style-id{
+    font-family: cursive;
+}
+
+.apply-bg{
+    text-decoration: overline;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+    color: brown;
+}
+
+.apply-border{
+    text-decoration: line-through;
+    border: solid 5px blue;
+}
+
+.qn{
+    border: solid 10px yellow;
+    color: blue;
+    padding: 20px;
+    /*
+    height:120px;
+    box-sizing: border-box;
+    */
+}
